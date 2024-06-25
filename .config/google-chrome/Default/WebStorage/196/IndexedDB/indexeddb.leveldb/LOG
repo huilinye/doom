@@ -1,0 +1,6 @@
+2024/06/24-22:10:00.460 b81 Creating DB /home/huilinye/.config/google-chrome/Default/WebStorage/196/IndexedDB/indexeddb.leveldb since it was missing.
+2024/06/24-22:10:00.499 b81 Reusing MANIFEST /home/huilinye/.config/google-chrome/Default/WebStorage/196/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/06/24-22:10:31.755 b80 Level-0 table #5: started
+2024/06/24-22:10:31.764 b80 Level-0 table #5: 480 bytes OK
+2024/06/24-22:10:31.776 b80 Delete type=0 #3
+2024/06/24-22:10:31.777 b80 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
