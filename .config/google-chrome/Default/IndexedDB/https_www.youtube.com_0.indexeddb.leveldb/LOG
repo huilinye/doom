@@ -1,6 +1,0 @@
-2024/06/25-07:47:24.986 b8c Creating DB /home/huilinye/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2024/06/25-07:47:25.013 b8c Reusing MANIFEST /home/huilinye/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/25-08:05:56.736 b81 Level-0 table #5: started
-2024/06/25-08:05:56.748 b81 Level-0 table #5: 214040 bytes OK
-2024/06/25-08:05:56.758 b81 Delete type=0 #3
-2024/06/25-08:05:56.759 b81 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
